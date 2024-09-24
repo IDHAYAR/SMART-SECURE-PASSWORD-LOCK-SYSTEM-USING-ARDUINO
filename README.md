@@ -38,6 +38,7 @@ In contrast, a smart door lock system mitigates these issues by incorporating el
 - Requires regular maintenance and updates to ensure the system functions correctly. 
 
 **System Circuit Diagram**
+![CIRCUIT DIAGRAM](https://github.com/user-attachments/assets/59e58dd5-9de6-4753-9500-9f7e680ad5cf)
 | :--: |
 
 ## *Components Used*
@@ -76,64 +77,39 @@ Step 6 - Repeat the process in a continuous loop to ensure real-time operation.
 
 ## *Results*
 
-//
-
+![Screenshot 2024-09-19 144551](https://github.com/user-attachments/assets/d1709a80-9c89-4a41-8049-dc599c474e45)
 | :--: |
-**WELCOMING MESSAGE WHEN THE SYSTEM 						IS STARTED**
+**WELCOMING MESSAGE WHEN THE SYSTEM IS STARTED**
 
-### Simulation Result State - 2
-
-// 
-
+![Screenshot 2024-09-19 144609](https://github.com/user-attachments/assets/5d396466-7441-4cf1-a572-c5a231d959e9)
 | :--: |
 **INSTRUCTED TO ENTER PASSWORD**
 
-### Simulation Result State - 3
-
-//
-
+![Screenshot 2024-09-19 144632](https://github.com/user-attachments/assets/9ea1f0fb-04c3-49ef-9ddf-396cf824b365)
 | :--: |
 **WHEN THE PASSWORD MATCHES, IT SHOWS THE MESSAGE “DOOR IS OPEN” & THE LED IS GLOWING**
 
-### Simulation Result State - 4
-
-//
-
+![Screenshot 2024-09-19 144833](https://github.com/user-attachments/assets/f39f3fc2-2651-46a0-98f7-6b689f2f2622)
 | :--: |
 **INSTRUCTED TO PRESS # TO CLOSE THE DOOR**
 
-### Simulation Result State - 5
-
-//
-
+![Screenshot 2024-09-19 144901](https://github.com/user-attachments/assets/3bc23849-5377-4686-a36c-b64a84236682)
 | :--: |
 **AFTER PRESSING #, IT SHOWS THE MESSAGE “DOOR IS CLOSED”**
 
-### Simulation Result State - 6
-
-//
-
+![Screenshot 2024-09-19 144923](https://github.com/user-attachments/assets/144ffbdf-466d-48d2-af88-610a80d78129)
 | :--: |
 **IT SHOWS THE MESSAGE “WRONG PASSWORD!” WHEN WRONG PASSWORD IS ENTERED**
 
-### Simulation Result State - 7
-
-//
-
+![Screenshot 2024-09-19 144950](https://github.com/user-attachments/assets/15d2beaa-e41c-4593-b257-0b120a4318d7)
 | :--: |
 **INSTRUCTED TO TRY AGAIN**
 
-### Simulation Result State - 8
-
-//
-
+![Screenshot 2024-09-19 145012](https://github.com/user-attachments/assets/d23e4744-60b7-4987-99cd-9d0744e5a1e7)
 | :--: |
 **IT SHOWS THE MESSAGE “TOO MANY ATTEMPTS!” WHEN MAXIMUM ATTEMPTS REACHED**
 
-### Simulation Result State - 8
-
-//
-
+![Screenshot 2024-09-19 145220](https://github.com/user-attachments/assets/cde01114-c85e-40a9-bfcf-9c8f9f56463e)
 | :--: |
 **AFTER “TOO MANY ATTEMPTS!” , IT SHOWS THE MESSAGE “TRY AGAIN LATER” & THE BUZZER ALARMS TO INDICATE IT**
 
