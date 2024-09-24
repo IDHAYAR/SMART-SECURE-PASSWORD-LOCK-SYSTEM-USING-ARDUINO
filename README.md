@@ -38,8 +38,8 @@ In contrast, a smart door lock system mitigates these issues by incorporating el
 - Requires regular maintenance and updates to ensure the system functions correctly. 
 
 **System Circuit Diagram**
-![CIRCUIT DIAGRAM](https://github.com/user-attachments/assets/59e58dd5-9de6-4753-9500-9f7e680ad5cf)
 | :--: |
+![CIRCUIT DIAGRAM](https://github.com/user-attachments/assets/59e58dd5-9de6-4753-9500-9f7e680ad5cf)
 
 ## *Components Used*
 - TINKERCAD Software
